@@ -4,7 +4,8 @@
         "userAlias" : "mnaks",
         "asOfDate" : " ",
         "statusId" : " ",
-        "StatusMetrics" : [
+        "StatusMetrics" : 
+		[
         {
         "metricName" : "SLA",
         "displayValue" : "23.55%",
@@ -37,6 +38,7 @@
         "overriddenColor" : " ",
         "comments" : " "
          }
-            }
        ]
+	   }
+	   ]
 }
