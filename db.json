@@ -10,10 +10,10 @@
         "metricName" : "SLA",
         "displayValue" : "23.55%",
         "actualColor" : "Red",
-        "overriddenMetric" : "",
+        "overriddenMetric" : " ",
         "overriddenColor" : " ",
         "comments" : " "
-         }
+         },
        {
         "metricName" : "People",
         "displayValue" : 0,
@@ -21,7 +21,7 @@
         "overriddenMetric" : "",
         "overriddenColor" : " ",
         "comments" : " "
-         }
+         },
        {
         "metricName" : "Utilization",
         "displayValue" : "23.55%",
@@ -29,12 +29,12 @@
         "overriddenMetric" : "",
         "overriddenColor" : " ",
         "comments" : " "
-         }
+         },
        {
         "metricName" : "Shrinkage",
         "displayValue" : "10.55%",
         "actualColor" : "Red",
-        "overriddenMetric" : "",
+        "overriddenMetric" : " ",
         "overriddenColor" : " ",
         "comments" : " "
          }
