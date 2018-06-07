@@ -1,12 +1,42 @@
 {
-    "date_considered": "2018-06-05T00:00:00.000Z",
-    "manager": "sbheema",
-    "sla_displayvalue": "80.15%",
-    "sla_comment" : null,
-    "shrinkage_displayvalue": "13.16%",
-    "shrinkage_comment" : null,
-    "util_displayvalue": "76.98%",
-    "util_comment" : null,
-    "attrition_displayvalue": 0,
-    "attrition_comment" : null
+  "TeamStatusDTO": [
+    {
+        "userAlias" : "mnaks",
+        "asOfDate" : " ",
+        "statusId" : " ",
+        "StatusMetrics" : [
+        {
+        "metricName" : "SLA",
+        "displayValue" : 23.55%,
+        "actualColor" : "Red",
+        "overriddenMetric" : "",
+        "overriddenColor" : " ",
+        "comments" : " "
+         }
+       {
+        "metricName" : "People",
+        "displayValue" : 0,
+        "actualColor" : "Red",
+        "overriddenMetric" : "",
+        "overriddenColor" : " ",
+        "comments" : " "
+         }
+       {
+        "metricName" : "Utilization",
+        "displayValue" : 23.55%,
+        "actualColor" : "Red",
+        "overriddenMetric" : "",
+        "overriddenColor" : " ",
+        "comments" : " "
+         }
+       {
+        "metricName" : "Shrinkage",
+        "displayValue" : 10.55%,
+        "actualColor" : "Red",
+        "overriddenMetric" : "",
+        "overriddenColor" : " ",
+        "comments" : " "
+         }
+            }
+       ]
 }
