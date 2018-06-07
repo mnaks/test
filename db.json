@@ -1,5 +1,4 @@
 {
-
     "date_considered": "2018-06-05T00:00:00.000Z",
     "manager": "sbheema",
     "sla_displayvalue": "80.15%",
@@ -10,20 +9,4 @@
     "util_comment" : null,
     "attrition_displayvalue": 0,
     "attrition_comment" : null
-
-},
-{
-
-   "date_considered": "2018-06-05T00:00:00.000Z",
-    "manager": "mnaks",
-    "sla_displayvalue": "90.15%",
-    "sla_comment" : null,
-    "shrinkage_displayvalue": "93.16%",
-    "shrinkage_comment" : null,
-    "util_displayvalue": "76.98%",
-    "util_comment" : null,
-    "attrition_displayvalue": 0,
-    "attrition_comment" : null
-    
 }
-
