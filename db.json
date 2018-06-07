@@ -7,7 +7,7 @@
         "StatusMetrics" : [
         {
         "metricName" : "SLA",
-        "displayValue" : 23.55%,
+        "displayValue" : "23.55%",
         "actualColor" : "Red",
         "overriddenMetric" : "",
         "overriddenColor" : " ",
@@ -23,7 +23,7 @@
          }
        {
         "metricName" : "Utilization",
-        "displayValue" : 23.55%,
+        "displayValue" : "23.55%",
         "actualColor" : "Red",
         "overriddenMetric" : "",
         "overriddenColor" : " ",
@@ -31,7 +31,7 @@
          }
        {
         "metricName" : "Shrinkage",
-        "displayValue" : 10.55%,
+        "displayValue" : "10.55%",
         "actualColor" : "Red",
         "overriddenMetric" : "",
         "overriddenColor" : " ",
