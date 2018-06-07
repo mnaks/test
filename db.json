@@ -3,16 +3,7 @@
     "manager": "bchowdar",
     "sla_displayvalue": "63.91%",
     "sla_actualvalue": 63.91,
-    "sla_unit": "percentage",
-    "shrinkage_displayvalue": "6.25%",
-    "shrinkage_actualvalue": 6.25,
-    "shrinkage_unit": "percentage",
-    "util_displayvalue": "75.67%",
-    "util_actualvalue": 75.67,
-    "util_unit": "percentage",
-    "attrition_displayvalue": 0,
-    "attrition_actualvalue": 0,
-    "attrition_unit": "count"
+    "sla_unit": "percentage"
 
 }
 
