@@ -1,5 +1,4 @@
 {
-metrics:[
     "date_considered": "2018-06-05T00:00:00.000Z",
     "manager": "bchowdar",
     "sla_displayvalue": "63.91%",
@@ -14,7 +13,6 @@ metrics:[
     "attrition_displayvalue": 0,
     "attrition_actualvalue": 0,
     "attrition_unit": "count"
-    ]
 
 }
 
